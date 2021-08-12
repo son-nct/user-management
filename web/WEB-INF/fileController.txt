@@ -1,0 +1,14 @@
+=login.jsp
+login=LoginServlet
+logout=LogOutServlet
+createUser=CreateUserServlet
+changeTabUser=ChangeTabUserServlet
+loadInfoUpdate=LoadInfoUpdateServlet
+update=UpdateUserServlet
+delete=DeleteUserServlet
+updateEmployee=UpdateEmployeeServlet
+addPromotion=AddToPromotionListServlet
+viewListPromotion=ViewListPromotionServlet
+processPromotion=ProcessPromotionListServlet
+updatePromotion=UpdatePromotionServlet
+viewHistory=ViewHistoryPromotionServlet
